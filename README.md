@@ -1,5 +1,7 @@
 # ipfs-fs-to-s3-datastore
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/3box/ipfs-fs-to-s3-datastore.svg)](https://greenkeeper.io/)
+
 Transfer data from an IPFS js fs datastore to a S3 datastore. Maps structure from one datastore to another and syncs to S3 bucket.
 
 ```
